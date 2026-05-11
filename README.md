@@ -1,4 +1,4 @@
-# Gabriel Santos
+# Gabriel Santos Silva
 
 🎓 Estudante de Ciência de Dados  
 📊 Interesse em Análise de Dados, Inteligência Artificial e Tecnologia  
