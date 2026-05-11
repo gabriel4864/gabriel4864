@@ -1,16 +1,13 @@
-## Hi there 👋
+# Gabriel Santos
 
-<!--
-**gabriel4864/gabriel4864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência de Dados  
+📊 Interesse em Análise de Dados, Inteligência Artificial e Tecnologia  
 
-Here are some ideas to get you started:
+## Atividades
+- Desenvolvimento de projetos em Python
+- Análise e manipulação de dados
+- Estudos em machine learning e automação
+- Prática com bancos de dados e visualização de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas
+Python • Pandas • NumPy • SQL • Excel • Git • GitHub • AWS
